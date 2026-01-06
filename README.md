@@ -7,6 +7,7 @@
 
 # 💻 Tech Stack:
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tejpalbhardwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tejpalbhardwaj&theme=dark&hide_border=false)<br/>
