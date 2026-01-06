@@ -9,6 +9,7 @@
 ![Kotlin](https://img.shields.io/badge/kotlin-6F42C1?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-009688?style=for-the-badge&logo=xml&logoColor=white)
+![Room DB](https://img.shields.io/badge/Room%20DB-4CAF50?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tejpalbhardwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
