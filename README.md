@@ -10,6 +10,7 @@
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-009688?style=for-the-badge&logo=xml&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-546E7A?style=for-the-badge&logo=android&logoColor=white)
+![Retrofit](https://img.shields.io/badge/Retrofit-E91E63?style=for-the-badge&logo=square&logoColor=white)
 ![Room DB](https://img.shields.io/badge/Room%20DB-4CAF50?style=for-the-badge&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 # 📊 GitHub Stats:
