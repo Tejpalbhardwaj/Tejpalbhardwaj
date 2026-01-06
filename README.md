@@ -6,6 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejpal-bhardwaj1088/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejpalbhardwaj1088@gmail.com) 
 
 # 💻 Tech Stack:
+![Android](https://img.shields.io/badge/Android-F44336?style=for-the-badge&logo=android&logoColor=FFFFFF)
 ![Kotlin](https://img.shields.io/badge/kotlin-6F42C1?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-009688?style=for-the-badge&logo=xml&logoColor=white)
