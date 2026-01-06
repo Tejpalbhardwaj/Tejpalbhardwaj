@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tejpal-bhardwaj1088/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tejpalbhardwaj1088@gmail.com) 
 
 # 💻 Tech Stack:
-![Firebase](https://img.shields.io/badge/Kotlin-a08021?style=for-the-badge&logo=Kotlin&logoColor=007BFF)
+![Kotlin](https://img.shields.io/badge/kotlin-6F42C1?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tejpalbhardwaj&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
